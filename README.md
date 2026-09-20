@@ -1,5 +1,7 @@
 # Image to Lightroom Preset
 
+![Image to Lightroom Preset preview](assets/preset-preview.png)
+
 A skill by @FreddyUnivers3 for turning a reference photo's look into an editable Lightroom / Adobe Camera Raw XMP preset.
 
 Upload a photo to an image-capable agent, ask for a preset, and get a reusable starting point for its color and contrast. Fork it, change the workflow, and make it your own.
@@ -38,7 +40,7 @@ Exposure and camera profiles remain untouched. Presets set their included values
 
 ## Validation and limitations
 
-The exporter validates XML structure and settings. Lightroom import and rendering have **not** been tested here. Camera profiles, lighting, file type, and existing edits affect the result. No reference photo is redistributed with this repository.
+The exporter validates XML structure and settings. Lightroom import and rendering have **not** been tested here. Camera profiles, lighting, file type, and existing edits affect the result. The README preview is supplied by the repository owner; it is not an automated rendering test.
 
 ## Contribute
 
