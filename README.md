@@ -1,6 +1,6 @@
 # Image to Lightroom Preset
 
-A skill by Freddy Universe for turning a reference photo's look into an editable Lightroom / Adobe Camera Raw XMP preset.
+A skill by @FreddyUnivers3 for turning a reference photo's look into an editable Lightroom / Adobe Camera Raw XMP preset.
 
 Upload a photo to an image-capable agent, ask for a preset, and get a reusable starting point for its color and contrast. Fork it, change the workflow, and make it your own.
 
