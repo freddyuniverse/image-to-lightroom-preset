@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<x:xmpmeta xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description rdf:about="" crs:PresetType="Normal" crs:UUID="A400D91DD4544611B1B1CD944DE3AC83" crs:ProcessVersion="11.0" crs:HasSettings="True" crs:SupportsAmount="False" crs:CameraModelRestriction="" crs:SupportsColor="True" crs:SupportsMonochrome="True" crs:SupportsHighDynamicRange="True" crs:SupportsNormalDynamicRange="True" crs:SupportsSceneReferred="True" crs:SupportsOutputReferred="True" crs:Contrast2012="24" crs:Highlights2012="-22" crs:Shadows2012="-8" crs:Whites2012="10" crs:Blacks2012="-13" crs:Texture="5" crs:Clarity2012="6" crs:Dehaze="2" crs:Vibrance="8" crs:Saturation="-3" crs:HueAdjustmentRed="-3" crs:SaturationAdjustmentRed="15" crs:LuminanceAdjustmentRed="-5" crs:HueAdjustmentOrange="-2" crs:SaturationAdjustmentOrange="-4" crs:LuminanceAdjustmentOrange="5" crs:HueAdjustmentYellow="-8" crs:SaturationAdjustmentYellow="-16" crs:LuminanceAdjustmentYellow="-4" crs:HueAdjustmentGreen="18" crs:SaturationAdjustmentGreen="-8" crs:LuminanceAdjustmentGreen="-15" crs:HueAdjustmentAqua="-10" crs:SaturationAdjustmentAqua="-8" crs:LuminanceAdjustmentAqua="-5" crs:HueAdjustmentBlue="-5" crs:SaturationAdjustmentBlue="-12" crs:LuminanceAdjustmentBlue="-8" crs:SaturationAdjustmentPurple="-10" crs:SaturationAdjustmentMagenta="-6" crs:SplitToningShadowHue="158" crs:SplitToningShadowSaturation="5" crs:SplitToningHighlightHue="218" crs:SplitToningHighlightSaturation="3" crs:SplitToningBalance="-20" crs:IncrementalTemperature="10" crs:IncrementalTint="0" crs:WhiteBalance="Custom" crs:ToneCurveName2012="Custom">
+      <crs:Name>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">Emerald Afterhours</rdf:li>
+        </rdf:Alt>
+      </crs:Name>
+      <crs:Group>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">Freddy Universe - Reference Looks</rdf:li>
+        </rdf:Alt>
+      </crs:Group>
+      <crs:Description>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">Emerald Afterhours v2: stronger contrast and warmer non-RAW white balance. Inspired by an editorial portrait with emerald shadows, warm skin and vivid reds. Non-RAW Temp slider +10; exposure and camera profile preserved. Inferred grade; not rendered or import-tested in Lightroom.</rdf:li>
+        </rdf:Alt>
+      </crs:Description>
+      <crs:ToneCurvePV2012>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>32, 25</rdf:li>
+          <rdf:li>64, 57</rdf:li>
+          <rdf:li>128, 131</rdf:li>
+          <rdf:li>192, 201</rdf:li>
+          <rdf:li>232, 239</rdf:li>
+          <rdf:li>255, 253</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

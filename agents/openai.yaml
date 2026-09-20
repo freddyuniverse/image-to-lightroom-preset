@@ -1,0 +1,14 @@
+interface:
+  display_name: Image to Lightroom Preset
+  short_description: Turn reference photos into exportable Lightroom looks
+  default_prompt: Use $image-to-lightroom-preset to analyze this photo and create
+    a downloadable XMP preset inspired by its color grade.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
